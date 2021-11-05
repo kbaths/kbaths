@@ -32,7 +32,8 @@
 </p>
 
 <p align="left">
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julio@andersoncode.com)](mailto:julio@andersoncode.com)
+  <a href="malito:julio@andersoncode.com" alt="Email">
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julio@andersoncode.com" /></a>
 
   <a href="https://www.linkedin.com/in/julio-anderson-6070201a0/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-anderson-6070201a0/" /></a>
