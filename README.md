@@ -23,6 +23,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Graduando em **Sistemas de informação** na **UNIJORGE Salvador**.
+- 💼 &nbsp; Fudador da empresa **EGS Tech**</a>
 - 💼 &nbsp; Trabalhando como **Técnico de T.I** na <a href="http://www.skynnet.info">Skynnet</a>
 - 🌱 &nbsp; Aprendendo e me especializando em novas tecnologias tais como **Typescript, NextJS, Docker, Microsserviços, Postgresql.**.
 
@@ -31,8 +32,7 @@
 </p>
 
 <p align="left">
-  <a href="malito:julio@andersoncode.com" alt="Email">
-  <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=julio@andersoncode.com" /></a>
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julio@andersoncode.com)](mailto:julio@andersoncode.com)
 
   <a href="https://www.linkedin.com/in/julio-anderson-6070201a0/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-anderson-6070201a0/" /></a>
